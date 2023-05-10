@@ -1,2 +1,6 @@
-# weeg-library-template
-WebExtensions Experts Group library template (for internal use)
+# @menhera/deterministic-json
+Deterministic JSON stringify / parse library.
+
+```
+npm i --save @menhera/deterministic-json
+```
